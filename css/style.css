@@ -19,7 +19,6 @@ header{
 }
 
 .format{
-  /* width: 1080px; */
   padding-left: 6px;
   margin: 0 auto;
 }
@@ -64,4 +63,15 @@ ul{
   margin-bottom: 30px;
 }
 
+thead{
+  background-color: #1BACE4;
+  color: white;
+}
 
+.lblue{
+  background-color: #B1E5F1;
+}
+
+.short_text {
+  width: 25%;
+}
