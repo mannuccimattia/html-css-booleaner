@@ -17,3 +17,35 @@ header{
   margin-left: 10px;
   margin-bottom: 5px;
 }
+
+.format{
+  width: 1100px;
+  padding-left: 6px;
+  margin-top: 10px;
+}
+
+#title{
+  font-size: 40px;
+}
+
+#written_by{
+  color:#918f8f ;
+  font-size: 18px;
+}
+
+#written_date{
+  color:#918f8f ;
+  font-size: 12px;
+}
+
+#booleaner{
+  color: #8bd0d4;
+}
+
+#tim{
+  margin-top: 20px;
+}
+
+#tim_ref{
+  font-size: 12px;
+}
