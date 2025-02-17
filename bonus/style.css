@@ -1,0 +1,109 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header{
+  background-color: #4EA1FF;
+  background-image: url(../img/pattern.png);
+  background-size: 35%;
+  background-position: top;
+}
+
+.booleaner{
+  width: 20%;
+  margin-top: 40px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.format{
+  width: 75%;
+  padding-left: 6px;
+  margin: 0 auto;
+}
+
+#title{
+  font-size: 45px;
+}
+
+#written_by{
+  color:#918f8f ;
+  font-size: 18px;
+}
+
+#written_date{
+  color:#918f8f ;
+  font-size: 12px;
+}
+
+#booleaner{
+  color: #8bd0d4;
+}
+
+#tim{
+  margin-top: 20px;
+}
+
+#tim_ref{
+  font-size: 12px;
+}
+
+.highlight{
+  background-color: yellow;
+}
+
+#lorem_list{
+  margin-top: 15px;
+}
+
+ul{
+  padding-left: 15px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+thead{
+  background-color: #1BACE4;
+  color: white;
+}
+
+.lblue{
+  background-color: #B1E5F1;
+}
+
+.short_text {
+  width: 25%;
+}
+
+#bottom_text{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+footer{
+  color: #969696;
+}
+
+#footer_img1{
+  margin-top: 8px;
+  margin-bottom: 8px;
+  height: 150px;
+  background-image: url(../img/monitor.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#footer_img2{
+  margin-top: 8px;
+  margin-bottom: 8px;
+  height: 150px;
+  background-image: url(../img/graph.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.footer_h{
+  padding-left: 5px;
+}
