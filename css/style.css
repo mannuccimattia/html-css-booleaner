@@ -63,6 +63,10 @@ ul{
   margin-bottom: 30px;
 }
 
+table{
+  border-collapse: collapse;
+}
+
 thead{
   background-color: #1BACE4;
   color: white;
