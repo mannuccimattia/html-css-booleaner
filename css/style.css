@@ -19,7 +19,7 @@ header{
 }
 
 .format{
-  width: 1100px;
+  width: 1080px;
   padding-left: 6px;
   margin-top: 10px;
 }
@@ -49,3 +49,19 @@ header{
 #tim_ref{
   font-size: 12px;
 }
+
+.highlight{
+  background-color: yellow;
+}
+
+#lorem_list{
+  margin-top: 15px;
+}
+
+ul{
+  padding-left: 15px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+
